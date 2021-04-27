@@ -1,6 +1,7 @@
 #include<iostream>
 
 int main(){
+/*bom dia*/
 
 return 0;
 }
