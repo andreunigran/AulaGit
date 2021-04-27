@@ -4,6 +4,6 @@ int main(){
 /*bom dia
   Доброе утро*/
 
-cout<<"trem bala";
+cout<<"a vida eh trem bala parceiro";
 return 0;
 }
