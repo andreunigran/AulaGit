@@ -1,5 +1,5 @@
 #include<iostream>
-/* bom dia */
+
 int main(){
 
 return 0;
