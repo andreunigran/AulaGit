@@ -1,6 +1,8 @@
 #include<iostream>
 
 int main(){
+/*bom dia
+  Доброе утро*/
 
 cout<<"trem bala";
 return 0;
